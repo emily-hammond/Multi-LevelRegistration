@@ -1,10 +1,10 @@
 // include files
-#include ".\ReadWriteFunctions.hxx"
-#include ".\PreprocessingFunctions.hxx"
-#include ".\itkRegistrationFramework.h"
-#include ".\itkInitializationFilter.h"
-#include ".\itkManageTransformsFilter.h"
-#include ".\itkValidationFilter.h"
+#include "ReadWriteFunctions.hxx"
+#include "PreprocessingFunctions.hxx"
+#include "itkRegistrationFramework.h"
+#include "itkInitializationFilter.h"
+#include "itkManageTransformsFilter.h"
+#include "itkValidationFilter.h"
 
 // rescale images
 #include "itkRescaleIntensityImageFilter.h"
