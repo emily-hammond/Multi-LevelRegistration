@@ -10,7 +10,7 @@
 #include "itkRescaleIntensityImageFilter.h"
 
 #include "itkPluginUtilities.h"
-#include "Multi-LevelRegistrationCLP.h"
+#include "MultiLevelRegistrationCLP.h"
 
 // Use an anonymous namespace to keep class types and function names
 // from colliding when module is used as shared object module.  Every
@@ -29,7 +29,7 @@ int DoIt( int argc, char * argv[], TPixel )
 
 	// print out start
 	std::cout << "-----------------------------------------------------------------------------" << std::endl;
-	std::cout << "                         MULTI-LEVEL REGISTRATION ";
+	std::cout << "                         MULTI LEVEL REGISTRATION ";
 	std::cout << "-----------------------------------------------------------------------------" << std::endl;
 	std::cout << std::endl;
 

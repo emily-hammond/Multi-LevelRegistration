@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8.9)
 
-project(Multi-LevelRegistration)
+project(MultiLevelRegistration)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
@@ -19,7 +19,7 @@ include(${Slicer_USE_FILE})
 
 #-----------------------------------------------------------------------------
 # Extension modules
-add_subdirectory(Multi-LevelRegistration)
+add_subdirectory(MultiLevelRegistration)
 ## NEXT_MODULE
 
 #-----------------------------------------------------------------------------
