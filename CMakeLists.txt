@@ -4,7 +4,7 @@ project(MultiLevelRegistration)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "http://slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/Multi-LevelRegistration")
+set(EXTENSION_HOMEPAGE "http://slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/MultiLevelRegistration")
 set(EXTENSION_CATEGORY "Registration")
 set(EXTENSION_CONTRIBUTORS "Emily Hammond (University of Iowa), Jessica C. Sieren (University of Iowa) ")
 set(EXTENSION_DESCRIPTION "Perform rigid registration with increasingly smaller volumes of data defined by regions of interest focusing on a desired anatomy.")
